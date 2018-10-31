@@ -1,0 +1,7 @@
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\bin\Debug\HissiOhjelma.exe.config
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\bin\Debug\HissiOhjelma.exe
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\bin\Debug\HissiOhjelma.pdb
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\obj\Debug\HissiOhjelma.csprojAssemblyReference.cache
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\obj\Debug\HissiOhjelma.csproj.CoreCompileInputs.cache
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\obj\Debug\HissiOhjelma.exe
+D:\Opiskelu\olio-ohjelmointi\HissiOhjelma\HissiOhjelma\HissiOhjelma\obj\Debug\HissiOhjelma.pdb
